@@ -1,0 +1,27 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "teste api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacasRenata/todoListApi.git"
+  },
+  "author": "Renata Maçãs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacasRenata/todoListApi/issues"
+  },
+  "homepage": "https://github.com/MacasRenata/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1"
+  }
+}
